@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <!--Element-elemen tag <head> tulis disini-->
+    <title>website koncoding</title>
+  </head>
+  <body>
+    <!--Element-elemen tag <body> tulis disini-->
+  </body>
+</html>
